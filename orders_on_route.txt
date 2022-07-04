@@ -1,0 +1,6 @@
+120120210 [not collected, not delivered] (EUR 0,00)
+[Item [description: Iphone 6,amount: 8,value: 70000], Item [description: Dell H2412,amount: 16,value: 45099], Item [description: Lenovo ThinkPad,amount: 11,value: 180000], Item [description: S9,amount: 32,value: 90000]]
+120133210 [collected, not delivered] (EUR 27015,84)
+[Item [description: Dell H2412,amount: 16,value: 45099], Item [description: Lenovo ThinkPad,amount: 11,value: 180000]]
+120133210 [collected, delivered] (EUR 41615,84)
+[Item [description: Iphone 6,amount: 8,value: 70000], Item [description: Dell H2412,amount: 16,value: 45099], Item [description: S9,amount: 32,value: 90000]]
